@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-with-useReduser/static/css/main.b29584cd.css",
+    "main.js": "/todo-with-useReduser/static/js/main.d9495469.js",
+    "index.html": "/todo-with-useReduser/index.html",
+    "main.b29584cd.css.map": "/todo-with-useReduser/static/css/main.b29584cd.css.map",
+    "main.d9495469.js.map": "/todo-with-useReduser/static/js/main.d9495469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b29584cd.css",
+    "static/js/main.d9495469.js"
+  ]
+}
